@@ -14,3 +14,8 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 2. AI systems should be controllable and secure as long as they are operating that is decisions made by the systems should be overridden if necessary.
 3. Privacy of user information should be considered when developing AI systems.
 4. Measures should be taken to make sure that AI systems does not deceive or manipulate humans.
+### Humanity
+1. All the decisions made by the AI systems should be in line with human norms and values.
+2. All the stakeholders of the AI systems should be a part of their development and governance.
+3. All AI systems should serve humanity as a whole.
+###  Inclusiveness
