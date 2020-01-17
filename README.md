@@ -1,2 +1,2 @@
 # AI and Machine Learning tutorial series
-### -> What is Artificial Intelligence (AI)
+## What is Artificial Intelligence (AI)
