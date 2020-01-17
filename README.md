@@ -4,5 +4,8 @@ Artificial Intelligence is an area in Computer Science that focusses on the crea
 ## What is Machine Learning?
 Machine Learning is an application of Artificial Intelligence that focuses on the creation of computer programs that possess an ability to process data for example images and learn from it. Such programs can also learn through experiences to improve themselves for example a simple conversation with a human being.
 ## Principles of AI
-**Public participation** -
-The public must be given a chance to contribute when rules that govern the development of AI systems are being made.
+### Ethics
+1. AI systems should be fair and all the bias in any dataset should be disclosed and mitigated.
+2. The people who develop and deploy the AI systems are the ones accountable for the systems and they should take measures to reduce all the risks that comes with AI systems.
+3. All the effects that comes with AI systems should be thoroughly explained to the parties that are affected.
+4. AI systems should be transparent such that all their failures can be easily traced and diagnosed. Also the algorithms and data used by the systems should be made known.
