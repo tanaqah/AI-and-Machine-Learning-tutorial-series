@@ -19,3 +19,6 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 2. All the stakeholders of the AI systems should be a part of their development and governance.
 3. All AI systems should serve humanity as a whole.
 ###  Inclusiveness
+1. The effects brought about by AI systems should be beneficial to the society and the society should be completely aware of the systems.
+2. AI systems should be inline with acceptable behavior in the societies and the human rights.
+3. People should make the final decisions whilst AI systems play the assistant role.
