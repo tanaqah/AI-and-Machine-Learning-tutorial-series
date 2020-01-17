@@ -13,4 +13,4 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 1. The security and safety of everyone affected by the AI systems is of great importance.
 2. AI systems should be controllable and secure as long as they are operating that is decisions made by the systems should be overridden if necessary.
 3. Privacy of user information should be considered when developing AI systems.
-
+4. Measures should be taken to make sure that AI systems does not deceive or manipulate humans.
