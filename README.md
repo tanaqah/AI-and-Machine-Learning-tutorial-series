@@ -9,3 +9,8 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 2. The people who develop and deploy the AI systems are the ones accountable for the systems and they should take measures to reduce all the risks that comes with AI systems.
 3. All the effects that comes with AI systems should be thoroughly explained to the parties that are affected.
 4. AI systems should be transparent such that all their failures can be easily traced and diagnosed. Also the algorithms and data used by the systems should be made known.
+### Security
+1. The security and safety of everyone affected by the AI systems is of great importance.
+2. AI systems should be controllable and secure as long as they are operating that is decisions made by the systems should be overridden if necessary.
+3. Privacy of user information should be considered when developing AI systems.
+
