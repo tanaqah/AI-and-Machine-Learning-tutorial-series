@@ -22,3 +22,4 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 1. The effects brought about by AI systems should be beneficial to the society and the society should be completely aware of the systems.
 2. AI systems should be inline with acceptable behavior in the societies and the human rights.
 3. People should make the final decisions whilst AI systems play the assistant role.
+## Fields of AI
