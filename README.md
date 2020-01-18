@@ -23,3 +23,5 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 2. AI systems should be inline with acceptable behavior in the societies and the human rights.
 3. People should make the final decisions whilst AI systems play the assistant role.
 ## Fields of AI
+###Health
+1. AI can be used to diagnose diseases through analysing a set of symptoms that are given by the user and then use its knowledge base to determine what disease is causing those symptoms.
