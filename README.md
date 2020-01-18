@@ -24,9 +24,6 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 3. People should make the final decisions whilst AI systems play the assistant role.
 ## Fields of AI
 ### Health
-1. AI can be used to diagnose diseases through analysing a set of symptoms that are given by the user and then use its knowledge base and algorithms to determine what disease is causing those symptoms.
-2. Drug development process can also be done with AI systems which in a much more efficient way.
-3. Personalised treatment can also be achieved as the AI algorithms are able to simulate what effects does a certain drug have on the patient.
-4.AI systems can be used in gene editing through algorithms that predict how genes react to certain conditions.
+AI systems can be used to diagnose diseases, assist in drug development, personalised treatment and gene editing. This can be achieved by supplying knowledge bases that contain medical information that a doctor would know and then the AI system will use the data to make decisions made by the doctors.
 ### Computer Vision
-AI systems are trained to identify objects and interpret the visual world just like the human eye does. Learning data is fed into the AI systems in form of images and videos and once the learning process is complete the  AI cansystems will be able to recognize the objects from those videos and images.
+AI systems are trained to identify objects and interpret the visual world just like the human eye does. Learning data is fed into the AI systems in form of images and videos and once the learning process is complete the AI systems will be able to recognize the objects from those videos and images.
