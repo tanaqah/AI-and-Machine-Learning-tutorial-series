@@ -29,4 +29,4 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 3. Personalised treatment can also be achieved as the AI algorithms are able to simulate what effects does a certain drug have on the patient.
 4.AI systems can be used in gene editing through algorithms that predict how genes react to certain conditions.
 ### Computer Vision
-AI systems are trained to identify objects and interpret the visual world just like the human eye does. Learning data is fed into the AI systems in form of images and videos and as a result the systems are able to recognize the objects from the videos and images later. later
+AI systems are trained to identify objects and interpret the visual world just like the human eye does. Learning data is fed into the AI systems in form of images and videos and once the learning process is complete the  AI cansystems will be able to recognize the objects from those videos and images.
