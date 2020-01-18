@@ -23,6 +23,9 @@ Machine Learning is an application of Artificial Intelligence that focuses on th
 2. AI systems should be inline with acceptable behavior in the societies and the human rights.
 3. People should make the final decisions whilst AI systems play the assistant role.
 ## Fields of AI
+### Natural Language Processing
+AI systems are trained to read, decipher and understand the languages that human beings speak just the same way two humans would do. The image below illustrates how the Natural Language Processing occurs between a human being and an AI:
+
 ### Health
 AI systems can be used to diagnose diseases, assist in drug development, personalised treatment and gene editing. This can be achieved by supplying knowledge bases that contain medical information that a doctor would know and then the AI system will use the data to make decisions made by the doctors.
 ### Computer Vision
